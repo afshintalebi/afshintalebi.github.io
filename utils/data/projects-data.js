@@ -11,7 +11,7 @@ export const projectsData = [
     {
         id: 2,
         name: 'End-to-End Bulk Digital Product Uploader',
-        description: 'I An automation system for WordPress digital store, including a custom plugin and a desktop uploader.',
+        description: 'An automation system for WordPress digital store, including a custom plugin and a desktop uploader.',
         tools: ['Go Language', 'PHP', 'Fyne', "Wordpress", "Image Editing", "File Conversion"],
         role: 'Full Stack Developer',
         code: '',

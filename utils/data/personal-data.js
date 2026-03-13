@@ -2,7 +2,7 @@ export const personalData = {
   name: "Afshin Talebi",
   profile: '/profile.png',
   designation: "Software Developer",
-  description: "My name is Afshin Talebi, a passionate software developer with a strong focus on JavaScript. I enjoy building practical web applications, learning new technologies, and solving challenging problems. I’m always open to opportunities that match my skills and help me grow as a developer.",
+  description: "My name is Afshin, a passionate software developer with a strong focus on JavaScript and Go language. I enjoy building practical web applications, learning new technologies, and solving challenging problems. I’m always open to opportunities that match my skills and help me grow as a developer.",
   email: 'at.de.work@gmail.com',
   phone: '',
   address: '',
