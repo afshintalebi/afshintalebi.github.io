@@ -1,10 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // Static export for GitHub Pages (served from ./out)
-  output: "export",
-  images: { unoptimized: true },
-  trailingSlash: true,
+  /* config options here */
+  cacheComponents: true,
+  partialPrefetching: true,
   turbopack: {
     rules: {
       "*.css": {
